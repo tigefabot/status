@@ -94,19 +94,19 @@
     "url": "https://plausible.my.id",
     "icon": "https://favicons.githubusercontent.com/plausible.my.id",
     "slug": "plausible",
-    "status": "down",
-    "uptime": "97.10%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "97.10%",
-    "time": 1026,
-    "timeDay": 1026,
-    "timeWeek": 1026,
-    "timeMonth": 1026,
-    "timeYear": 1026,
+    "status": "up",
+    "uptime": "96.08%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
+    "time": 1340,
+    "timeDay": 1340,
+    "timeWeek": 1340,
+    "timeMonth": 1340,
+    "timeYear": 1340,
     "dailyMinutesDown": {
-      "2022-02-10": 24
+      "2022-02-10": 33
     }
   },
   {
