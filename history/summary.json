@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/plausible.my.id",
     "slug": "plausible",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 1238,
     "timeDay": 938,
     "timeWeek": 1277,
@@ -168,7 +168,7 @@
     "url": "https://kodev.my.id",
     "icon": "https://favicons.githubusercontent.com/kodev.my.id",
     "slug": "kodev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -179,6 +179,8 @@
     "timeWeek": 1683,
     "timeMonth": 1769,
     "timeYear": 1769,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   }
 ]
