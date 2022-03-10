@@ -168,7 +168,7 @@
     "url": "https://kodev.my.id",
     "icon": "https://favicons.githubusercontent.com/kodev.my.id",
     "slug": "kodev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -179,6 +179,8 @@
     "timeWeek": 1862,
     "timeMonth": 1691,
     "timeYear": 1718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   }
 ]
