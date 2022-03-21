@@ -4,19 +4,19 @@
     "url": "https://tigefa.com",
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 1261,
-    "timeDay": 1680,
-    "timeWeek": 1329,
-    "timeMonth": 1301,
-    "timeYear": 1261,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1253,
+    "timeDay": 1427,
+    "timeWeek": 1284,
+    "timeMonth": 1289,
+    "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-03-21": 15
+      "2022-03-21": 24
     }
   },
   {
