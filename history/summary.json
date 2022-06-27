@@ -56,18 +56,18 @@
     "icon": "https://favicons.githubusercontent.com/tigefa.site",
     "slug": "minio",
     "status": "down",
-    "uptime": "93.36%",
+    "uptime": "93.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.52%",
-    "uptimeYear": "93.36%",
+    "uptimeMonth": "68.98%",
+    "uptimeYear": "93.04%",
     "time": 604,
     "timeDay": 402,
     "timeWeek": 428,
     "timeMonth": 583,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2022-06-27": 85,
+      "2022-06-27": 762,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
@@ -215,9 +215,9 @@
     "url": "https://kodev.my.id",
     "icon": "https://favicons.githubusercontent.com/kodev.my.id",
     "slug": "kodev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -227,6 +227,7 @@
     "timeMonth": 1145,
     "timeYear": 1343,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-04-09": 36
     }
   }
