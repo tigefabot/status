@@ -1,7 +1,7 @@
 url: https://plausible.my.id
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2022-06-30T09:16:15.777Z
+status: down
+code: 403
+responseTime: 138
+lastUpdated: 2022-06-30T12:10:53.451Z
 startTime: Wed Feb 09 2022 21:43:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
