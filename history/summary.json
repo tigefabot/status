@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 538,
-    "timeDay": 137,
-    "timeWeek": 127,
-    "timeMonth": 128,
-    "timeYear": 227,
+    "time": 535,
+    "timeDay": 134,
+    "timeWeek": 131,
+    "timeMonth": 130,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2022-07-03": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 137,
-    "timeWeek": 129,
-    "timeMonth": 138,
-    "timeYear": 202,
+    "time": 500,
+    "timeDay": 98,
+    "timeWeek": 124,
+    "timeMonth": 137,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2022-06-28": 24
     }
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.site.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "55.48%",
+    "uptime": "55.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,9 +54,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-06-19": 69,
+      "2023-06-20": 66,
+      "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -273,8 +274,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   },
   {
@@ -289,8 +289,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 98,
-    "timeWeek": 259,
+    "timeDay": 258,
+    "timeWeek": 242,
     "timeMonth": 208,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -308,10 +308,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 239,
-    "timeDay": 316,
-    "timeWeek": 289,
-    "timeMonth": 249,
+    "time": 238,
+    "timeDay": 337,
+    "timeWeek": 297,
+    "timeMonth": 254,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-06-30": 165
@@ -328,10 +328,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 474,
-    "timeDay": 307,
-    "timeWeek": 300,
-    "timeMonth": 240,
+    "time": 473,
+    "timeDay": 304,
+    "timeWeek": 314,
+    "timeMonth": 244,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-06-30": 165
@@ -348,10 +348,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 465,
-    "timeDay": 325,
-    "timeWeek": 844,
-    "timeMonth": 378,
+    "time": 463,
+    "timeDay": 315,
+    "timeWeek": 846,
+    "timeMonth": 377,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2022-06-30": 164
@@ -368,11 +368,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 249,
-    "timeDay": 263,
-    "timeWeek": 277,
-    "timeMonth": 235,
-    "timeYear": 220,
+    "time": 248,
+    "timeDay": 333,
+    "timeWeek": 285,
+    "timeMonth": 239,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2022-06-30": 115
     }
@@ -389,9 +389,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 350,
-    "timeDay": 302,
-    "timeWeek": 333,
-    "timeMonth": 330,
+    "timeDay": 340,
+    "timeWeek": 330,
+    "timeMonth": 328,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2022-06-30": 115
@@ -403,15 +403,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "98.09%",
+    "uptime": "96.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "87.56%",
     "uptimeYear": "95.26%",
-    "time": 1509,
-    "timeDay": 1308,
-    "timeWeek": 4056,
-    "timeMonth": 2547,
+    "time": 1508,
+    "timeDay": 1282,
+    "timeWeek": 1212,
+    "timeMonth": 2544,
     "timeYear": 1563,
     "dailyMinutesDown": {
       "2023-06-18": 102,
