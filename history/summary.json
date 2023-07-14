@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.site.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "52.81%",
+    "uptime": "52.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-07-14": 79,
+      "2023-07-14": 555,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -298,18 +298,20 @@
     "url": "https://tigefa.my.id",
     "icon": "https://tigefa.my.id/favicon.ico",
     "slug": "tigefa-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
+    "time": 217,
     "timeDay": 247,
     "timeWeek": 227,
     "timeMonth": 285,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 2
+    }
   },
   {
     "name": "Plausible",
@@ -334,18 +336,20 @@
     "url": "https://privatebin.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/privatebin.my.id.ico",
     "slug": "private-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
+    "time": 430,
     "timeDay": 230,
     "timeWeek": 228,
     "timeMonth": 397,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 1
+    }
   },
   {
     "name": "Yourls",
