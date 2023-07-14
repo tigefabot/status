@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.site.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "52.78%",
+    "uptime": "52.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-07-14": 555,
+      "2023-07-14": 566,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -298,19 +298,19 @@
     "url": "https://tigefa.my.id",
     "icon": "https://tigefa.my.id/favicon.ico",
     "slug": "tigefa-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 247,
-    "timeWeek": 227,
-    "timeMonth": 285,
+    "time": 216,
+    "timeDay": 225,
+    "timeWeek": 224,
+    "timeMonth": 282,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-07-14": 2
+      "2023-07-14": 12
     }
   },
   {
@@ -336,19 +336,19 @@
     "url": "https://privatebin.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/privatebin.my.id.ico",
     "slug": "private-bin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 230,
-    "timeWeek": 228,
-    "timeMonth": 397,
-    "timeYear": 248,
+    "time": 429,
+    "timeDay": 226,
+    "timeWeek": 227,
+    "timeMonth": 391,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-07-14": 1
+      "2023-07-14": 12
     }
   },
   {
