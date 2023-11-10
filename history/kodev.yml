@@ -1,7 +1,7 @@
 url: https://kodev.my.id
-status: up
-code: 200
-responseTime: 1143
-lastUpdated: 2023-11-09T23:08:22.985Z
+status: down
+code: 503
+responseTime: 1074
+lastUpdated: 2023-11-10T14:52:23.280Z
 startTime: 2022-02-09T21:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
