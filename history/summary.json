@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 56,
+      "2024-02-01": 75,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -527,9 +527,9 @@
     "url": "https://curls.top",
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -539,6 +539,7 @@
     "timeMonth": 289,
     "timeYear": 339,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2023-07-07": 63,
       "2023-07-06": 216
     }
@@ -560,7 +561,7 @@
     "timeMonth": 1045,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2024-02-01": 56,
+      "2024-02-01": 75,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
