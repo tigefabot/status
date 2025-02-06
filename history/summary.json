@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -375,7 +375,7 @@
     "uptime": "89.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.69%",
+    "uptimeMonth": "43.65%",
     "uptimeYear": "67.25%",
     "time": 752,
     "timeDay": 0,
@@ -383,7 +383,7 @@
     "timeMonth": 722,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -569,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -953,7 +953,7 @@
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1294,19 +1294,19 @@
     "url": "https://tigefa.my.id",
     "icon": "https://tigefa.my.id/favicon.ico",
     "slug": "tigefa-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 157,
-    "timeWeek": 274,
-    "timeMonth": 291,
+    "timeDay": 210,
+    "timeWeek": 272,
+    "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-02-06": 3
+      "2025-02-06": 19
     }
   },
   {
@@ -1314,19 +1314,19 @@
     "url": "https://plausible.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.my.id.ico",
     "slug": "plausible",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 143,
-    "timeWeek": 231,
-    "timeMonth": 247,
+    "timeDay": 204,
+    "timeWeek": 235,
+    "timeMonth": 248,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-02-06": 3
+      "2025-02-06": 19
     }
   },
   {
@@ -1334,19 +1334,19 @@
     "url": "https://privatebin.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/privatebin.my.id.ico",
     "slug": "private-bin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 126,
-    "timeWeek": 262,
+    "timeDay": 198,
+    "timeWeek": 263,
     "timeMonth": 252,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-02-06": 2
+      "2025-02-06": 18
     }
   },
   {
@@ -1384,7 +1384,7 @@
     "timeMonth": 0,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1749,7 +1749,7 @@
     "timeMonth": 22553,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2025-02-06": 958,
+      "2025-02-06": 976,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
