@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 76,
+      "2025-03-27": 281,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -388,18 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "96.73%",
-    "uptimeDay": "95.49%",
+    "uptimeDay": "95.43%",
     "uptimeWeek": "96.14%",
-    "uptimeMonth": "96.49%",
+    "uptimeMonth": "96.61%",
     "uptimeYear": "89.78%",
-    "time": 692,
+    "time": 693,
     "timeDay": 458,
     "timeWeek": 537,
-    "timeMonth": 416,
+    "timeMonth": 417,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2025-03-27": 1,
       "2025-03-26": 65,
       "2025-03-25": 87,
       "2025-03-24": 32,
@@ -485,8 +486,7 @@
       "2024-12-26": 18,
       "2024-12-25": 29,
       "2024-12-24": 26,
-      "2024-12-23": 34,
-      "2024-12-22": 20
+      "2024-12-23": 34
     }
   },
   {
@@ -506,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 76,
+      "2025-03-27": 281,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -879,7 +879,7 @@
     "icon": "https://tigefa.win/favicon.ico",
     "slug": "tigefa-win",
     "status": "down",
-    "uptime": "66.59%",
+    "uptime": "66.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -890,7 +890,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 76,
+      "2025-03-27": 281,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1352,7 +1352,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 76,
+      "2025-03-27": 281,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1725,7 +1725,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "down",
-    "uptime": "54.28%",
+    "uptime": "54.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1736,7 +1736,7 @@
     "timeMonth": 5252,
     "timeYear": 3200,
     "dailyMinutesDown": {
-      "2025-03-27": 76,
+      "2025-03-27": 281,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
