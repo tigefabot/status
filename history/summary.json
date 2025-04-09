@@ -5,7 +5,7 @@
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa",
     "status": "down",
-    "uptime": "64.62%",
+    "uptime": "64.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 167,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -388,18 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "96.77%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.38%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "89.78%",
     "time": 692,
     "timeDay": 146,
     "timeWeek": 249,
-    "timeMonth": 399,
+    "timeMonth": 400,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2025-04-09": 1,
       "2025-04-08": 68,
       "2025-04-07": 56,
       "2025-04-06": 20,
@@ -482,7 +483,7 @@
       "2025-01-14": 21,
       "2025-01-13": 36,
       "2025-01-11": 20,
-      "2025-01-08": 36
+      "2025-01-08": 18
     }
   },
   {
@@ -502,7 +503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 167,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -886,7 +887,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 167,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1348,7 +1349,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 167,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1732,7 +1733,7 @@
     "timeMonth": 5525,
     "timeYear": 3492,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 167,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
