@@ -5,7 +5,7 @@
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa",
     "status": "down",
-    "uptime": "64.25%",
+    "uptime": "64.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1052,
+      "2025-04-15": 1168,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -388,19 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.64%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "97.63%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "89.78%",
-    "time": 653,
+    "uptimeYear": "89.79%",
+    "time": 654,
     "timeDay": 396,
     "timeWeek": 591,
     "timeMonth": 478,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-04-15": 39,
+      "2025-04-15": 40,
       "2025-04-13": 85,
       "2025-04-11": 19,
       "2025-04-10": 17,
@@ -480,7 +480,7 @@
       "2025-01-21": 1054,
       "2025-01-20": 126,
       "2025-01-19": 318,
-      "2025-01-18": 65
+      "2025-01-18": 48
     }
   },
   {
@@ -500,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1052,
+      "2025-04-15": 1168,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -884,7 +884,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1052,
+      "2025-04-15": 1168,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1346,7 +1346,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1052,
+      "2025-04-15": 1168,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1719,7 +1719,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "down",
-    "uptime": "53.36%",
+    "uptime": "53.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1730,7 +1730,7 @@
     "timeMonth": 5487,
     "timeYear": 3577,
     "dailyMinutesDown": {
-      "2025-04-15": 1052,
+      "2025-04-15": 1168,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
