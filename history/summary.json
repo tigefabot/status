@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 762,
+      "2025-05-01": 945,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -388,19 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "97.58%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.51%",
     "time": 750,
     "timeDay": 1896,
     "timeWeek": 1472,
-    "timeMonth": 691,
+    "timeMonth": 687,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-05-01": 65,
+      "2025-05-01": 66,
       "2025-04-30": 39,
       "2025-04-28": 16,
       "2025-04-27": 18,
@@ -447,8 +447,7 @@
       "2025-03-06": 15,
       "2025-03-05": 45,
       "2025-03-04": 115,
-      "2025-03-03": 27,
-      "2025-03-02": 17
+      "2025-03-03": 27
     }
   },
   {
@@ -468,7 +467,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 762,
+      "2025-05-01": 945,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -852,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 762,
+      "2025-05-01": 945,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -1303,7 +1302,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
     "status": "down",
-    "uptime": "63.00%",
+    "uptime": "62.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1314,7 +1313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 762,
+      "2025-05-01": 945,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -1687,7 +1686,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "down",
-    "uptime": "52.64%",
+    "uptime": "52.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1698,7 +1697,7 @@
     "timeMonth": 5650,
     "timeYear": 3949,
     "dailyMinutesDown": {
-      "2025-05-01": 762,
+      "2025-05-01": 945,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
