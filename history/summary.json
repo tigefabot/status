@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 84,
+      "2025-05-12": 175,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -388,18 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "99.52%",
     "time": 720,
     "timeDay": 906,
     "timeWeek": 506,
     "timeMonth": 760,
     "timeYear": 762,
     "dailyMinutesDown": {
+      "2025-05-12": 1,
       "2025-05-11": 43,
       "2025-05-10": 39,
       "2025-05-09": 47,
@@ -447,8 +448,7 @@
       "2025-03-15": 40,
       "2025-03-14": 16,
       "2025-03-13": 112,
-      "2025-03-11": 82,
-      "2025-03-10": 22
+      "2025-03-11": 82
     }
   },
   {
@@ -468,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 84,
+      "2025-05-12": 175,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -852,7 +852,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 84,
+      "2025-05-12": 175,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -1303,7 +1303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
     "status": "down",
-    "uptime": "62.44%",
+    "uptime": "62.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1314,7 +1314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 84,
+      "2025-05-12": 175,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -1698,7 +1698,7 @@
     "timeMonth": 6133,
     "timeYear": 4147,
     "dailyMinutesDown": {
-      "2025-05-12": 84,
+      "2025-05-12": 175,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
