@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1006,
+      "2025-05-13": 1153,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -388,19 +388,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "97.37%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "97.36%",
     "uptimeMonth": "97.84%",
-    "uptimeYear": "99.51%",
-    "time": 730,
+    "uptimeYear": "99.52%",
+    "time": 731,
     "timeDay": 1360,
-    "timeWeek": 695,
-    "timeMonth": 755,
+    "timeWeek": 717,
+    "timeMonth": 760,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2025-05-13": 23,
+      "2025-05-13": 24,
       "2025-05-12": 46,
       "2025-05-11": 43,
       "2025-05-10": 39,
@@ -449,7 +449,7 @@
       "2025-03-15": 40,
       "2025-03-14": 16,
       "2025-03-13": 112,
-      "2025-03-11": 57
+      "2025-03-11": 22
     }
   },
   {
@@ -469,7 +469,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1006,
+      "2025-05-13": 1153,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -853,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1006,
+      "2025-05-13": 1153,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -1304,7 +1304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
     "status": "down",
-    "uptime": "62.35%",
+    "uptime": "62.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1315,7 +1315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1006,
+      "2025-05-13": 1153,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -1699,7 +1699,7 @@
     "timeMonth": 6199,
     "timeYear": 4168,
     "dailyMinutesDown": {
-      "2025-05-13": 1006,
+      "2025-05-13": 1154,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
