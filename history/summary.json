@@ -5,7 +5,7 @@
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa",
     "status": "down",
-    "uptime": "62.04%",
+    "uptime": "62.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 81,
+      "2025-05-27": 196,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -388,10 +388,10 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "97.03%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "97.02%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.53%",
     "time": 709,
@@ -400,6 +400,7 @@
     "timeMonth": 496,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2025-05-27": 0,
       "2025-05-26": 23,
       "2025-05-25": 99,
       "2025-05-23": 73,
@@ -448,7 +449,7 @@
       "2025-03-29": 59,
       "2025-03-28": 18,
       "2025-03-26": 65,
-      "2025-03-25": 44
+      "2025-03-25": 16
     }
   },
   {
@@ -457,7 +458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.site.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "22.81%",
+    "uptime": "22.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -468,7 +469,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 81,
+      "2025-05-27": 196,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -852,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 81,
+      "2025-05-27": 196,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1303,7 +1304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
     "status": "down",
-    "uptime": "61.66%",
+    "uptime": "61.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1314,7 +1315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 81,
+      "2025-05-27": 196,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1698,7 +1699,7 @@
     "timeMonth": 5992,
     "timeYear": 4355,
     "dailyMinutesDown": {
-      "2025-05-27": 81,
+      "2025-05-27": 196,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
