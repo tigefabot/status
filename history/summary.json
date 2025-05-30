@@ -7,9 +7,9 @@
     "status": "up",
     "uptime": "61.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.18%",
-    "uptimeMonth": "4.87%",
-    "uptimeYear": "0.29%",
+    "uptimeWeek": "16.00%",
+    "uptimeMonth": "5.06%",
+    "uptimeYear": "0.31%",
     "time": 179,
     "timeDay": 934,
     "timeWeek": 731,
@@ -387,11 +387,11 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "96.81%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "99.52%",
     "time": 724,
     "timeDay": 148,
@@ -447,7 +447,7 @@
       "2025-04-02": 59,
       "2025-04-01": 52,
       "2025-03-31": 98,
-      "2025-03-30": 85
+      "2025-03-30": 55
     }
   },
   {
@@ -467,7 +467,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 982,
+      "2025-05-30": 1065,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 982,
+      "2025-05-30": 1065,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1313,7 +1313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 982,
+      "2025-05-30": 1065,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1686,7 +1686,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "down",
-    "uptime": "51.37%",
+    "uptime": "51.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1697,7 +1697,7 @@
     "timeMonth": 6122,
     "timeYear": 4370,
     "dailyMinutesDown": {
-      "2025-05-30": 983,
+      "2025-05-30": 1065,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
