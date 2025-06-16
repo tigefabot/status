@@ -8,8 +8,8 @@
     "uptime": "62.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "55.45%",
-    "uptimeYear": "4.78%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "4.79%",
     "time": 617,
     "timeDay": 1904,
     "timeWeek": 1006,
@@ -372,17 +372,17 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "94.84%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "94.85%",
     "uptimeMonth": "95.50%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 649,
     "timeDay": 156,
     "timeWeek": 153,
-    "timeMonth": 243,
-    "timeYear": 687,
+    "timeMonth": 236,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2025-06-16": 26,
       "2025-06-15": 100,
@@ -429,8 +429,7 @@
       "2025-04-28": 16,
       "2025-04-27": 18,
       "2025-04-26": 43,
-      "2025-04-25": 36,
-      "2025-04-24": 26
+      "2025-04-25": 36
     }
   },
   {
@@ -450,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 294,
+      "2025-06-16": 352,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -834,7 +833,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 294,
+      "2025-06-16": 352,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1296,7 +1295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 295,
+      "2025-06-16": 352,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1680,7 +1679,7 @@
     "timeMonth": 5098,
     "timeYear": 4428,
     "dailyMinutesDown": {
-      "2025-06-16": 295,
+      "2025-06-16": 352,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
