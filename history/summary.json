@@ -5,16 +5,16 @@
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa",
     "status": "up",
-    "uptime": "64.61%",
+    "uptime": "64.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "25.99%",
-    "time": 475,
-    "timeDay": 630,
-    "timeWeek": 477,
-    "timeMonth": 548,
-    "timeYear": 475,
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "26.27%",
+    "time": 476,
+    "timeDay": 650,
+    "timeWeek": 539,
+    "timeMonth": 572,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2025-08-22": 123,
       "2025-08-17": 103,
@@ -308,8 +308,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -318,18 +317,19 @@
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
     "status": "down",
-    "uptime": "93.95%",
+    "uptime": "93.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.44%",
+    "uptimeYear": "78.17%",
     "time": 681,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 609,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-09-03": 74,
+      "2025-09-04": 74,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -460,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.site.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "21.07%",
+    "uptime": "21.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -471,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 74,
+      "2025-09-04": 74,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -834,8 +835,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -844,16 +844,16 @@
     "icon": "https://tigefa.win/favicon.ico",
     "slug": "tigefa-win",
     "status": "up",
-    "uptime": "62.89%",
+    "uptime": "62.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.01%",
-    "time": 311,
-    "timeDay": 292,
-    "timeWeek": 214,
-    "timeMonth": 401,
-    "timeYear": 311,
+    "uptimeYear": "16.28%",
+    "time": 314,
+    "timeDay": 480,
+    "timeWeek": 274,
+    "timeMonth": 410,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-07-06": 888,
       "2025-07-05": 1440,
@@ -1159,8 +1159,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -1175,10 +1174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 691,
-    "timeWeek": 362,
-    "timeMonth": 355,
-    "timeYear": 285,
+    "timeDay": 395,
+    "timeWeek": 366,
+    "timeMonth": 359,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2025-02-06": 19
     }
@@ -1194,11 +1193,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 320,
-    "timeWeek": 331,
-    "timeMonth": 351,
-    "timeYear": 270,
+    "time": 276,
+    "timeDay": 509,
+    "timeWeek": 373,
+    "timeMonth": 359,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2025-02-06": 19
     }
@@ -1214,10 +1213,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 403,
-    "timeWeek": 332,
-    "timeMonth": 345,
+    "time": 286,
+    "timeDay": 324,
+    "timeWeek": 325,
+    "timeMonth": 348,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-02-06": 18
@@ -1235,9 +1234,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 368,
-    "timeWeek": 354,
-    "timeMonth": 389,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 393,
     "timeYear": 297,
     "dailyMinutesDown": {}
   },
@@ -1247,16 +1246,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/curls.top.ico",
     "slug": "c-ur-ls-top",
     "status": "up",
-    "uptime": "60.48%",
+    "uptime": "60.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "12.54%",
-    "time": 1720,
-    "timeDay": 1074,
-    "timeWeek": 1005,
-    "timeMonth": 1073,
-    "timeYear": 1803,
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "12.82%",
+    "time": 1730,
+    "timeDay": 1238,
+    "timeWeek": 1020,
+    "timeMonth": 1091,
+    "timeYear": 1797,
     "dailyMinutesDown": {
       "2025-08-31": 92,
       "2025-08-28": 16,
@@ -1584,8 +1583,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -1594,18 +1592,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kodev.my.id.ico",
     "slug": "kodev",
     "status": "down",
-    "uptime": "47.60%",
+    "uptime": "47.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 5055,
-    "timeDay": 1194,
-    "timeWeek": 4407,
-    "timeMonth": 13078,
-    "timeYear": 5777,
+    "timeDay": 1189,
+    "timeWeek": 1338,
+    "timeMonth": 12947,
+    "timeYear": 5776,
     "dailyMinutesDown": {
-      "2025-09-03": 74,
+      "2025-09-04": 74,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -1968,8 +1967,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]
